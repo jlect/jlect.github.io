@@ -3,6 +3,7 @@
 在开始项目介绍前，先介绍一下相关环境:
 > 本地: MacBook Air M1 + VSCODE + iTerm2 + git
 > 远程: github pages + jekyll
+
 --
 感谢jekyll提供技术支持
 --
